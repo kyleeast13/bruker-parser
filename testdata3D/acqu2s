@@ -1,0 +1,24 @@
+##TITLE= Parameter file, TopSpin 4.0.3
+##JCAMPDX= 5.0
+##DATATYPE= Parameter Values
+##NPOINTS= 48	$$ modification sequence number
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= lisilab
+$$ 2019-04-29 14:48:00.424 -0400  lisilab@szz
+$$ /data/lisilab/Kyle/10/acqu2s
+$$ process /opt/topspin4.0.3/prog/mod/acqdataserver
+##$ACQT0= 0
+##$BF1= 60.810644787
+##$FnILOOP= 1
+##$FnMODE= 6
+##$NUC1= <15N>
+##$NusJSP= 0
+##$NusT2= 1
+##$NusTD= 40
+##$O1= 7114.844
+##$ProjAngle= 0
+##$SFO1= 60.817759631
+##$SW= 34.9990752679943
+##$SW_h= 2128.56534695615
+##$TD= 40
+##END=

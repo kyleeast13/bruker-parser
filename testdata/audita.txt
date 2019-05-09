@@ -1,0 +1,23 @@
+##TITLE= Audit trail, TopSpin 4.0.3
+##JCAMPDX= 5.01
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= root
+$$ /root/.topspin-BladeEpu/local_acqu/Kyle/15/audita.txt
+##AUDIT TRAIL=  $$ (NUMBER, WHEN, WHO, WHERE, PROCESS, VERSION, WHAT)
+(   1,<2019-05-02 16:56:03.558 +0000>,<root/George>,<BladeEpu>,<go4>,<TopSpin 4.0.3>,
+      <created by zg on 'Avance NEO 600' (szz) by user 'lisilab'
+	started at 2019-05-02 16:33:10.819 +0000, POWCHK enabled, PULCHK disabled,
+	finished successfully at 2019-05-02 16:56:03.558 +0000
+       configuration hash MD5:
+       1B 0D 73 10 3F 0A C8 45 B4 9F 56 B5 0B 06 82 A4
+       double data hash MD5: 1K * 512
+       69 66 42 C4 89 A3 78 BD D4 C4 66 CB F5 36 FA 1D>)
+$$ /data/lisilab/Kyle/15/audita.txt
+(   2,<2019-05-02 12:54:36.230 -0400>,<lisilab/George>,<szz>,<sertoint>,<TopSpin 4.0.3>,
+      <sertoint
+       data hash MD5: 1K * 512
+       54 DE 78 01 09 99 0B C4 7F 7C 3A 72 0A A7 66 1B>)
+##END=
+
+$$ hash MD5
+$$ EA 6B C0 3D A3 1B 70 13 BF 41 70 BF 83 1B 44 70

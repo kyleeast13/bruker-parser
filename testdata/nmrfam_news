@@ -1,0 +1,51 @@
+ ----------------------------
+< WELCOME TO NMRFAM-SPARKY ! >
+ ----------------------------
+\   ^__^
+ \  (oo)\_______
+    (__)\       )\/\
+        ||----w |
+        ||     ||
+*+-=-=-=-=-=-=-==--=--=----=-=-*
+Greetings from NMRFAM!
+Woonghee Lee, E-mail: whlee@nmrfam.wisc.edu
+National Magnetic Resonance Facilities at Madison
+Department of Biochemistry, Univ. of Wisconsin-Madison
+*+-=-=-=-=-=-=-==--=--=----=-=-*
+
+* Noticeably updated features
+- More colors available (ct, cr)
+- Move labels to peak centers (lc)
+- Help manual updates for two-letter codes (hn / hI)
+- NMRPipe, NMRView, TopSpin files can be directly opened in here.
+- A new conversion script for importing NMRView to UCSF (nv2ucsf)
+- An easy GUI program for modifying ucsf spectrum (easy_ucsfdata)
+- Mouse wheel (mw) and/or + - , . arrow key integration
+- Contour shortcuts added (shift ) ; ' [ ] 
+- Very large data support (>10GB) for 64bits (Linux 64 / Mac)
+- Triple strip plots and their enhancements (sp / SP / Sp)
+- Completeness counter (cm)
+- Chemical shift reference views and versatile assigner (ir / va)
+- Advanced selection tool (AS) from Rienstra group
+- PluqIn-Sparky (pq) inspired from Rienstra's plugin and PINE-SPARKY.2
+- Transfer and simulate (ta) also supports aromatic experiments
+- Improved APES peak picker (ae)- full automation to I-PINE/PONDEROSA
+- I-PINE/PINE-SPARKY.2 (ep) also supports some 4D experiments
+- Improved PONDEROSA structure calculation plugin (c3)
+- RDC-SPARKY analysis tool for ARTSY, IPAP and coupled HSQC (rd)
+
+To share the thoughts, visit Sparky user forum (Type SF).
+
+Please cite NMRFAM-SPARKY paper to support this development.
+Lee et al. Bioinformatics 2015 Apr; 31(8):1325-7
+
+* Modern laptop users
+Concurrent Fn key may be required for function keys.
+Or change your settings.
+System Preferences > Keyboard > Enable "Use all F1...."
+
+* 2019 NMRFAM HANDS-ON WORKSHOP JUNE 2-7
+https://nmrfam.wisc.edu/introductory-workshop
+
+* Latest BUILD 03/06/2019 ("dN" to update)
+Installed on 3/1/2019
